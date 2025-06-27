@@ -92,3 +92,6 @@
 [submodule "Tweaks/YouSlider"]
 	path = Tweaks/YouSlider
 	url = https://github.com/PoomSmart/YouSlider
+[submodule "Tweaks/Gonerino"]
+	path = Tweaks/Gonerino
+	url = https://github.com/castdrian/Gonerino
